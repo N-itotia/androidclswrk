@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\nigel\\Documents\\Androidclasswrk\\DroidCafeWithSettingsChallenge\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_status_white.png",
+        "source": "C:\\Users\\nigel\\Documents\\Androidclasswrk\\DroidCafeWithSettingsChallenge\\app\\src\\main\\res\\drawable-xxhdpi\\ic_status_white.png"
+    },
+    {
+        "merged": "C:\\Users\\nigel\\Documents\\Androidclasswrk\\DroidCafeWithSettingsChallenge\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_order_white.png",
+        "source": "C:\\Users\\nigel\\Documents\\Androidclasswrk\\DroidCafeWithSettingsChallenge\\app\\src\\main\\res\\drawable-xxhdpi\\ic_order_white.png"
+    },
+    {
+        "merged": "C:\\Users\\nigel\\Documents\\Androidclasswrk\\DroidCafeWithSettingsChallenge\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_fab_white.png",
+        "source": "C:\\Users\\nigel\\Documents\\Androidclasswrk\\DroidCafeWithSettingsChallenge\\app\\src\\main\\res\\drawable-xxhdpi\\ic_fab_white.png"
+    },
+    {
+        "merged": "C:\\Users\\nigel\\Documents\\Androidclasswrk\\DroidCafeWithSettingsChallenge\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_favorites_white.png",
+        "source": "C:\\Users\\nigel\\Documents\\Androidclasswrk\\DroidCafeWithSettingsChallenge\\app\\src\\main\\res\\drawable-xxhdpi\\ic_favorites_white.png"
+    },
+    {
+        "merged": "C:\\Users\\nigel\\Documents\\Androidclasswrk\\DroidCafeWithSettingsChallenge\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_map.png",
+        "source": "C:\\Users\\nigel\\Documents\\Androidclasswrk\\DroidCafeWithSettingsChallenge\\app\\src\\main\\res\\drawable-xxhdpi\\ic_map.png"
+    }
+]
